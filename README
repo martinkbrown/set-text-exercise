@@ -1,0 +1,2 @@
+Set the android:text attribute for ALL of the TextViews to something else, (e.g. "Don't Set Me"). 
+You need to do this using Java code instead of XML.
